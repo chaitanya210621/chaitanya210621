@@ -1,9 +1,7 @@
 <h1 align="center">Hi 👋, I'm A. Chaitanya Lakshmi</h1>
 <h3 align="center">AI/ML Enthusiast | Full Stack Developer | Problem Solver</h3>
 
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=chaitanya210621&label=Profile%20Views&color=blue&style=flat" alt="profile views" />
-</p>
+
 
 ---
 
