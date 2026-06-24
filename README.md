@@ -103,9 +103,9 @@
 
 ## 📫 Connect With Me
 
-📧 Email: your-email@example.com
+📧 Email: anisettichaitanyalakshmi@gmail.com
 
-💼 LinkedIn: Add your LinkedIn profile link here
+💼 LinkedIn: https://www.linkedin.com/in/chaitanya-lakshmi-anisetti7218452a1/
 
 💻 GitHub: https://github.com/chaitanya210621
 
